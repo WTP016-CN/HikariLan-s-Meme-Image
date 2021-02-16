@@ -1,5 +1,5 @@
 # HikariLan-s-Meme-Image
-[English](https://github.com/WTP016-CN/HikariLan-s-meme-image/README.md) [中文(简体)](https://github.com/WTP016-CN/HikariLan-s-meme-image/README-CN.md)
+[English](https://github.com/WTP016-CN/HikariLan-s-meme-image/README.md) | [中文(简体)](https://github.com/WTP016-CN/HikariLan-s-meme-image/README-CN.md)
 
 ## What is this?
 This is a repository for archiving HikariLan’s meme image. Made by StarLight繁星工坊’s player. Licensed under Apache 2.0 License.
